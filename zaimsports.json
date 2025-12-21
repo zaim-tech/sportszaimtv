@@ -1,11 +1,11 @@
 [
   {
-    "name": "Super Sport Premier",
+    "name": "SuperSportPremier",
     "logo": "https://docdog.top/logo/countries/africa/supersportpremierleague.png",
     "link": "http://d478.dtv.homes:2082/live/star25_982663/w8Shzhse/138586.m3u8?type=mpegts"
   },
   {
-    "name": "Super Sport Laliga",
+    "name": "SuperSportLaliga",
     "logo": "https://docdog.top/logo/countries/africa/supersportpremierlaliga.png",
     "link": "http://d478.dtv.homes:2082/live/star25_982663/w8Shzhse/138584.m3u8?type=mpegts"
   },
@@ -30,3 +30,4 @@
     "link": "http://d478.dtv.homes:2082/live/star25_982663/w8Shzhse/262957.m3u8?type=mpegts"
   }
 ]
+
